@@ -1,1 +1,1 @@
-your payment isnot done
+Your payment is incomplete. Please complete the payment to avoid disruption or blocking of the application.
